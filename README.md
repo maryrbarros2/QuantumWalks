@@ -1,5 +1,9 @@
 # Quantum Walks
 
-1. Simulation of a Quantum walk (Hadamard Walk) in 1 dimension. 
-2. Simulation of a 1D Quantum Walk following the Su-Schrieffer-Heeger model. 
-3. Simulation of a Quantum Walk (Hadamard Walk) in 2 dimensions. 
+1. SIMULATION OF A QUANTUM WALK (Hadamard Walk) IN 1 DIMENSION. 
+   Reference: "1D and 2D quantum walks with light transverse momentum", Laurea Magistrale in Fisica, Chiara Esposito. (page 6)
+   
+2. SIMULATION OF A 1D QUANTUM WALK FOLLOWING THE SU-SCHRIEFFER-HEEGER MODEL. 
+   Reference: Physical Review Research 2, 023119 (2020).
+
+3. SIMULATION OF A QUANTUM WALK (Hadamard Walk) IN 2 DIMENSIONS. 
