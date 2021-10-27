@@ -1,1 +1,1 @@
-# Quantum-Walk
+# 2D Quantum-Walk
